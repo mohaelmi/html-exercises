@@ -10,10 +10,10 @@
   }
 
   .file4 {
-      width: 50%;
+      width: 75%;
       margin: auto;
-      padding: 2% 0% 4% 4%;
-      background-color: antiquewhite;
+      padding-left: 3%;
+      background-color: rgb(248, 247, 244);
       align-content: center;
 
   }
